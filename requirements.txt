@@ -1,4 +1,3 @@
 plotly
 Pillow
 streamlit-option-menu
-base64
